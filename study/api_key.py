@@ -13,6 +13,9 @@ def gpt_key():
 def get_path(two_path):
     path = f"C:/Users/DSL/Desktop/Balance_Up/{two_path}"
     return path
-
+def get_model():
+    with open('api_key/models.txt', 'r', encoding='utf-8') as file:
+        return file.read()
+    
 if __name__ == "__main__":
     print(mongo_key())
