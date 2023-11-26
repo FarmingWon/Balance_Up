@@ -7,7 +7,6 @@ from pathlib import Path
 
 #openai
 import openai
-from openai.error import OpenAIError
 
 import pandas as pd
 
