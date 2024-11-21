@@ -5,7 +5,7 @@
 ## 주요 특징
 <p><strong>1. 개인 이력서 입력을 통한 분석 </strong></p>
 
-![resume](https://github.com/FarmingWon/jobs/assets/98411696/e28c8f0a-8efd-4b02-90c9-357281b0f8ab)
+![resume](https://github.com/FarmingWon/Balance_Up/assets/98411696/e28c8f0a-8efd-4b02-90c9-357281b0f8ab)
 
 <p><strong>2. 라이프 밸런스 점수 비율 차트 확인</strong></p>
 
